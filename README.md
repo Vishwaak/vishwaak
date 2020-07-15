@@ -1,5 +1,4 @@
-### Hola Amigo
-
+### Hola Amigo! 🤠
 [![linkedin badge](https://img.shields.io/badge/linkedin-vishwaak_chandran-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/vishwaak-chandran/)
 [![twitter badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fvishwaakchandra)](https://twitter.com/vishwaakchandra)
 
