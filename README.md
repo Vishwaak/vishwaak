@@ -3,7 +3,7 @@
 [![twitter badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fvishwaakchandra)](https://twitter.com/vishwaakchandra)
 
 - 🔭 I’m currently working on Reinforcement learning
-- 🌱 I’m currently learning Privacy in ML
+- 🌱 I’m currently learning RL
 - 💬 Ask me about DL/RL 
 - 📫 How to reach me: email me at [chandranvishwaak@gmail.com](mailto:chandranvishwaak@gmail.com) or Text me at [@Vishwaak](https://t.me/Unkown_the_better)
 - 😄 Pronouns: he/him/his
