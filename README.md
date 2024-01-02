@@ -7,6 +7,5 @@
 - 💬 Ask me about DL/RL 
 - 📫 How to reach me: email me at [chandranvishwaak@gmail.com](mailto:chandranvishwaak@gmail.com) or Text me at [@Vishwaak](https://t.me/Unkown_the_better)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Carzy about Potato Chips 
 
 ![Vishwaak Chandran's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=vishwaak&show_icons=true&hide_border=true&hide=["contribs","prs"]))
