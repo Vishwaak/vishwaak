@@ -6,4 +6,4 @@
 - 💬 Ask me about DL/RL 
 - 📫 How to reach me: email me at [chandranvishwaak@gmail.com](mailto:chandranvishwaak@gmail.com)
 
-![Vishwaak Chandran's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=vishwaak&show_icons=true&hide_border=true&hide=["contribs","prs"]))
+![Vishwaak Chandran's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=vishwaak&show_icons=true&hide_border=true&hide=["contribs","prs"])
